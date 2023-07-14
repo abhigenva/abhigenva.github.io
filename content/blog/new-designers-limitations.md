@@ -5,30 +5,33 @@ featureImage: images/allpost/allPost-3.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Introduction:
+Being a new designer comes with its own set of challenges and limitations. However, it's important to recognize that these limitations are not roadblocks, but opportunities for growth and innovation. In this blog post, we will explore some common limitations faced by new designers and provide insights on how to overcome them, empowering them to rise above and reach their full creative potential.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Limited Experience:
+New designers often lack extensive professional experience. However, instead of viewing this as a drawback, embrace it as an opportunity to experiment and explore without being confined by traditional norms. Use your fresh perspective to bring a unique and fresh approach to your designs. Seek internships, freelance projects, and collaborations to gain practical experience and expand your portfolio.
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+> "The only limit to our realization of tomorrow will be our doubts of today."
+> -- <cite>Franklin D. Roosevelt</cite>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Limited Resources:
+New designers may face limitations in terms of access to advanced software, tools, or resources. Instead of letting this hinder your creativity, leverage the resources you do have. Embrace free design software and online tutorials to enhance your skills. Make the most of available resources within your budget, and focus on developing a strong conceptual foundation and design thinking mindset.
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+Limited Network:
+Building a professional network takes time, and as a new designer, you may have a limited network of industry connections. However, don't let this discourage you. Actively seek out networking opportunities, attend design events, join online design communities, and engage in social media platforms to connect with fellow designers, mentors, and potential clients. Networking can open doors to collaboration, mentorship, and future opportunities.
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+Limited Client Base:
+Establishing a client base can be challenging for new designers. However, take advantage of personal and professional networks to showcase your skills and offer your services. Offer discounted rates or pro bono work initially to build your portfolio and gain testimonials. Focus on delivering exceptional work and providing a positive client experience to attract referrals and grow your client base over time.
 
 {{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+Limited Confidence:
+As a new designer, self-doubt and lack of confidence can be barriers to success. Embrace a growth mindset and believe in your abilities. Seek feedback from mentors, peers, and clients to validate your skills and gain confidence. Celebrate small victories and learn from setbacks. Remember, confidence grows with experience, so embrace every opportunity to learn, grow, and refine your craft.
 
 {{< /blogsection >}}
 
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+Limited Exposure:
+Gaining exposure as a new designer can be challenging in a crowded industry. However, leverage the power of online platforms and social media to showcase your work. Create an online portfolio or website to exhibit your projects, share your design process, and express your unique design philosophy. Participate in design competitions, submit work to design publications or blogs, and actively engage with the design community to increase your visibility.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Conclusion:
+While new designers face certain limitations, these challenges should not define their journey. By embracing limitations as opportunities for growth, new designers can leverage their fresh perspective, hone their skills, build their network, gain confidence, and showcase their unique talents. Remember, limitations are not obstacles but stepping stones toward success. With passion, determination, and a willingness to learn and adapt, new designers can overcome these limitations and soar to new heights in their creative endeavors. So, embrace the journey, stay persistent, and let your creativity shine!

@@ -1,34 +1,40 @@
 ---
-title: "How to become acreative designer"
+title: "How to become a creative designer"
 date: 2020-07-13T12:49:27+06:00
 featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Introduction:
+Creativity is a powerful force that drives innovation and sets designers apart in the competitive world of design. If you aspire to become a creative designer, this blog post is here to guide you on your journey. We will explore the key steps and mindset required to unlock your creative potential and embark on a fulfilling career in design.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Cultivate a Curious Mindset:
+Creative designers have an insatiable curiosity that fuels their imagination. Cultivate a mindset of lifelong learning, staying curious about various design disciplines, emerging trends, and innovative techniques. Embrace diverse sources of inspiration, explore different art forms, and immerse yourself in different cultures to broaden your perspective and stimulate creativity.
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+> "Creativity is intelligence having fun."
+> -- <cite>Albert Einstein</cite>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Develop a Solid Foundation:
+Build a strong foundation in design fundamentals. Master the principles of color theory, typography, layout, and composition. Understand the psychology behind design and how it influences user behavior. By establishing this knowledge base, you will have a solid framework to support your creative ideas and effectively communicate them through your designs.
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+Embrace the Iterative Process:
+Creativity thrives through iteration. Don't be afraid to experiment, refine, and iterate your designs. Embrace constructive criticism as an opportunity for growth and improvement. Learn from failures and use them as stepping stones towards success. The iterative process helps you push boundaries, discover new possibilities, and refine your creative vision.
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+Emphasize User-Centered Design:
+Design with empathy and put the needs of the user at the forefront. User-centered design ensures that your creations effectively address the desires, frustrations, and goals of the target audience. Conduct user research, gather feedback, and iterate based on user insights. By designing with users in mind, you create meaningful and impactful experiences.
 
 {{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+Embrace Collaboration and Feedback:
+Collaboration is a powerful catalyst for creativity. Seek opportunities to collaborate with other designers, artists, and professionals from different disciplines. Collaborative environments foster fresh perspectives, expand your creative horizons, and challenge your ideas. Embrace feedback from others, as it provides valuable insights and helps you refine your designs.
 
 {{< /blogsection >}}
 
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+Embrace Failure and Resilience:
+Creativity often requires taking risks and embracing failure as part of the process. Learn to view failure as a valuable learning experience and an opportunity for growth. Develop resilience and perseverance to overcome setbacks and challenges. Trust in your creative instincts, embrace constructive criticism, and stay committed to your vision.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Stay Inspired and Keep Evolving:
+Nurture your creativity by seeking inspiration from various sources. Explore art galleries, attend design conferences, and immerse yourself in design communities. Engage in continuous learning, staying up-to-date with the latest design trends and technological advancements. Embrace new tools and techniques that enhance your creative process.
+
+Conclusion:
+Becoming a creative designer is a journey that requires dedication, passion, and a commitment to constant growth. Cultivate a curious mindset, build a strong foundation, embrace iteration, prioritize user-centered design, collaborate with others, embrace failure, and stay inspired. Remember, creativity is not a destination, but a lifelong pursuit. So, unleash your creative potential, embrace your unique voice, and make a lasting impact through your designs. The world awaits your creative vision.
