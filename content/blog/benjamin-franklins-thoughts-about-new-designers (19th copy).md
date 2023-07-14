@@ -5,30 +5,33 @@ featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Introduction:
+Benjamin Franklin, a polymath of his time, was not only a founding father but also an advocate for innovation and creativity. His thoughts on new designers continue to resonate, inspiring the next generation to forge their own paths in the world of design. In this blog post, we delve into Benjamin Franklin's wisdom and how it encourages aspiring designers to make their mark and illuminate the world.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Embrace the Power of Originality:
+According to Benjamin Franklin, new designers possess a unique opportunity to break away from the conventions of the past and introduce fresh perspectives. Embracing the power of originality, they can challenge traditional boundaries and ignite new design revolutions. By daring to think differently, new designers have the ability to transform industries and leave a lasting impact.
 
 > "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
 > -- <cite>Benjamin Franklin</cite>
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Nurture a Curious Mindset:
+Franklin believed that curiosity was the foundation of innovation. New designers are urged to cultivate a curious mindset, constantly seeking knowledge, and exploring uncharted territories. By staying curious, they can uncover hidden insights, find inspiration in unexpected places, and infuse their work with a sense of wonder that captivates audiences.
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+Embrace Failure as a Stepping Stone:
+Benjamin Franklin understood that failure was not an endpoint, but rather a stepping stone to success. New designers should adopt this mindset, viewing failures as valuable learning opportunities. With each setback, they can gain insight, refine their skills, and evolve their design approach. Embracing failure as a part of the creative process enables them to grow, adapt, and ultimately excel.
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+Learn from the Masters:
+Franklin believed in the power of learning from those who came before. New designers can find wisdom in studying the works of design pioneers, understanding their techniques, and building upon their foundations. By immersing themselves in the knowledge of the past, they can springboard into the future, armed with a rich tapestry of design history.
 
 {{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+Seize Collaborative Opportunities:
+Collaboration was a key principle in Franklin's philosophy. He understood the power of shared ideas and diverse perspectives. New designers are encouraged to embrace collaboration, seeking out opportunities to collaborate with other creatives, professionals, and experts from different fields. By working together, they can blend skills, combine strengths, and create groundbreaking designs that push boundaries.
 
 {{< /blogsection >}}
 
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+Leave a Lasting Legacy:
+Benjamin Franklin believed in leaving a lasting legacy for future generations. New designers can embrace this notion by aiming to create designs that stand the test of time. By infusing their work with purpose, meaning, and functionality, they can ensure their designs make a positive impact on society and inspire others for years to come.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Conclusion:
+Benjamin Franklin's thoughts on new designers continue to inspire and guide aspiring creatives on their path to success. By embracing the power of originality, nurturing a curious mindset, learning from failures, collaborating, and leaving a lasting legacy, new designers can shape the future of design and illuminate the world with their innovative creations. So, let Benjamin Franklin's wisdom ignite your passion, push the boundaries of design, and leave an indelible mark on the world as a visionary new designer.
