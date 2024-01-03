@@ -47,13 +47,17 @@ name = "Frequently Ask Question"
 url = "#"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
+name = "Privacy Policy"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Terms of Service"
 url = "#"
 weight = 4
+[[menu.sitemap]]
+name = "Latest Article"
+url = "#"
+weight = 5
 
 [params]
 blogPageURL = "blog"
