@@ -48,7 +48,7 @@ url = "#"
 weight = 2
 [[menu.sitemap]]
 name = "Privacy Policy"
-url = "/privacy-policy/"
+url = "/other/privacy-policy/"
 weight = 3
 [[menu.sitemap]]
 name = "Terms of Service"

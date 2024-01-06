@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-url: "/other/privacy-policy/"
+
 ---
 Last updated: [3rd Jan, 2024]
 
