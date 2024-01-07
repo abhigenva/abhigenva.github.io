@@ -1,3 +1,5 @@
 ---
-title: Recent Projects
+title: "Portfolio"
+layout: "section"
+draft: false
 ---
