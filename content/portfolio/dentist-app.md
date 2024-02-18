@@ -1,6 +1,6 @@
 ---
 title: Dentist App
-date: 2023-02-9T11:30:27.000+06:00
+date: 2023-01-13T12:49:27.000+06:00
 thumbnail: images/portfolio/dentist.png
 service: Development, UX Design
 client: Dr. Hailey Copeland
