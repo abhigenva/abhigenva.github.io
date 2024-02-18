@@ -1,7 +1,7 @@
 ---
 title: Dating App
 date: 2020-07-13T12:49:27.000+06:00
-thumbnail: images/portfolio/portfolio-1.png
+thumbnail: images/portfolio/dentist.png
 service: Development, UX Design
 client: Prakhar Gehlot
 shortDescription: A dating app for the modern generation to get matches instantly
