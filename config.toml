@@ -62,7 +62,7 @@ weight = 5
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Genva Technologies © 2025"
+copyright = "Genva Technologies © 2026"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/mdoyoopv"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
